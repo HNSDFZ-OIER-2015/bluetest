@@ -1,0 +1,14 @@
+选手姓名：Blue
+程序目录：'/home/ubuntu/Desktop/SwingCode/configer/Example/SRC'/Blue/A+B.cpp
+输入文件目录：'/home/ubuntu/Desktop/SwingCode/configer/Example/Pro/A+B/input'
+输出文件目录：'/home/ubuntu/Desktop/SwingCode/configer/Example/Pro/A+B/output'
+
+
+
+选手姓名：TLE
+程序目录：'/home/ubuntu/Desktop/SwingCode/configer/Example/SRC'/TLE/A+B.cpp
+输入文件目录：'/home/ubuntu/Desktop/SwingCode/configer/Example/Pro/A+B/input'
+输出文件目录：'/home/ubuntu/Desktop/SwingCode/configer/Example/Pro/A+B/output'
+
+
+
